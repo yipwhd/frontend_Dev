@@ -1,4 +1,3 @@
-
 body {
 margin:0;
 padding:0;
@@ -265,7 +264,7 @@ section.nest-is .nest-is-caption h2{
     position:absolute;
     z-index:10;
     opacity:0;
-    margin-left:100px;
+    margin-left:250px;
     margin-bottom:120px;
     transform:
         translateY(-100px);
@@ -311,7 +310,7 @@ section.howitworks h1 {
     color:#fff;
 }
 .how-it-works-list {
-    color: #FE4365;
+    color: #fff;
     width: 100%;
     height: 200px;
     font:bold;
@@ -321,7 +320,7 @@ section.howitworks h1 {
     list-style-type:none;
 }
 .how-it-works-list li {
-    margin-left:120px;
+    margin-left:178px;
     line-height:25px;
     margin-top: 200px;
     width: 110px;
